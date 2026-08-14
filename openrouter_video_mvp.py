@@ -16,7 +16,7 @@ headers = {
 }
 
 payload = {
-    "model": "google/veo-3.1",
+    "model": "google/veo-3.1-lite",
     "prompt": (
         "A cute small robot playing football on a rooftop in Hong Kong at sunset, "
         "cinematic, warm golden light, slow camera movement, vertical video."

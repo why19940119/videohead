@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "filename": "scene_001.mp4",
+    "speaker_a": "阿明",
+    "speaker_b": "阿晴",
+    "dialogue": [
+      {
+        "speaker": "阿明",
+        "text": "如果香港突然停電二十四小時，你覺得最先出問題會係乜？"
+      },
+      {
+        "speaker": "阿晴",
+        "text": "我估係交通燈，或者手機冇電。"
+      }
+    ],
+    "prompt": "Two fictional Hong Kong adults, Ah Ming and Ah Ching, sitting in a small apartment at night. Ah Ming is calm and analytical, wearing a dark blue shirt. Ah Ching is curious and skeptical, wearing a light grey shirt. They discuss a sudden citywide blackout. The room lights flicker and turn off, leaving only blue light from the window. Cinematic documentary style, realistic acting, horizontal 16:9, smooth slow camera movement, no subtitles, no logos, no readable text."
+  },
+  {
+    "id": 2,
+    "filename": "scene_002.mp4",
+    "speaker_a": "阿明",
+    "speaker_b": "阿晴",
+    "dialogue": [
+      {
+        "speaker": "阿明",
+        "text": "交通燈只係第一層，真正麻煩嘅係所有系統會同時失去溝通。"
+      },
+      {
+        "speaker": "阿晴",
+        "text": "即係地鐵、電話、網絡，全部都有可能受影響？"
+      }
+    ],
+    "prompt": "The same two original fictional adults, Ah Ming wearing a dark blue shirt and Ah Ching wearing a light grey shirt, standing beside a dark apartment window and looking at a fictional city's streets below. Traffic signals stop working, cars move slowly, and a generic underground train station entrance becomes dark in the distance. Ah Ming explains the situation while Ah Ching looks concerned and asks questions. Realistic cinematic documentary style, consistent original characters, horizontal 16:9, slow over-the-shoulder camera movement, no brand names, no logos, no subtitles, no readable text."
+  },
+  {
+    "id": 3,
+    "filename": "scene_003.mp4",
+    "speaker_a": "阿明",
+    "speaker_b": "阿晴",
+    "dialogue": [
+      {
+        "speaker": "阿明",
+        "text": "最容易被忽略嘅，可能係電子支付。"
+      },
+      {
+        "speaker": "阿晴",
+        "text": "但係冇電，最多咪畀現金，應該唔至於好嚴重呀？"
+      }
+    ],
+    "prompt": "The same Ah Ming and Ah Ching inside a small Hong Kong convenience store during a blackout. Ah Ching holds a smartphone and looks confused after a digital payment fails. Ah Ming calmly points toward an old cash register. Other customers wait quietly in the dark. Realistic cinematic documentary style, consistent faces and clothing, horizontal 16:9, close-up followed by a slow camera pullback, no subtitles, no logos, no readable text."
+  },
+  {
+    "id": 4,
+    "filename": "scene_004.mp4",
+    "speaker_a": "阿明",
+    "speaker_b": "阿晴",
+    "dialogue": [
+      {
+        "speaker": "阿明",
+        "text": "問題係，大部分人而家根本冇帶現金。"
+      },
+      {
+        "speaker": "阿晴",
+        "text": "咁即係大家唔係冇錢，而係突然用唔到自己啲錢？"
+      }
+    ],
+    "prompt": "A fictional Hong Kong street at night during a power outage. An adult man wearing a dark blue shirt and an adult woman wearing a light grey shirt walk slowly past closed shops with plain metal shutters. The street is dark, the screens are blank, and pedestrians check their phones. The woman becomes worried while the man remains calm. Realistic Hong Kong urban atmosphere, natural handheld camera movement, horizontal 16:9, quiet dramatic mood."
+  },
+  {
+    "id": 5,
+    "filename": "scene_005.mp4",
+    "speaker_a": "阿明",
+    "speaker_b": "阿晴",
+    "dialogue": [
+      {
+        "speaker": "阿明",
+        "text": "所以停電最可怕嘅地方，唔係城市變黑。"
+      },
+      {
+        "speaker": "阿晴",
+        "text": "而係我哋太習慣所有嘢一撳掣就即刻運作。"
+      }
+    ],
+    "prompt": "The same Ah Ming and Ah Ching standing on a Hong Kong rooftop at dawn. The city lights gradually return one district at a time. They look at the skyline in silence, thoughtful and slightly worried. Hopeful but mysterious cinematic documentary ending, realistic lighting, consistent faces and clothing, horizontal 16:9, slow wide camera pullback, no subtitles, no logos, no readable text."
+  }
+]
